@@ -1,10 +1,14 @@
 # build output
 dist*/
+
 # generated types
 .astro/
 
 # dependencies
 node_modules/
+
+# Local configuration files
+*.local.json
 
 # logs
 npm-debug.log*
