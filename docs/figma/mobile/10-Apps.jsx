@@ -6,15 +6,15 @@ export default function Apps() {
       <div className="bg-[#c4defd] h-[232px]" data-name="Placeholder" data-node-id="2:3027" />
  <div className="flex flex-col gap-[60px] items-center" data-name="Heading" data-node-id="2:2859">
  <div className="flex flex-col gap-[24px] items-center text-center text-white" data-name="Text-block" data-node-id="2:2860">
- <p className="css-4hzbpn font-bold text-[36px] tracking-[-0.72px]" data-node-id="2:2861">
+ <p className="css-4hzbpn font-bold text-[36px] tracking-[-0.02em]" data-node-id="2:2861">
             Work with Your Favorite Apps Using whitepace
           </p>
- <p className="css-4hzbpn leading-[30px] text-[18px] tracking-[-0.36px]" data-node-id="2:2862">
+ <p className="css-4hzbpn leading-[30px] text-[18px] tracking-[-0.02em]" data-node-id="2:2862">
             Whitepace teams up with your favorite software. Integrate with over 1000+ apps with Zapier to have all the tools you need for your project success.
           </p>
         </div>
  <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center px-[40px] py-[20px] rounded-[8px]" data-name="Btn-try" data-node-id="2:2863">
- <p className="css-ew64yg leading-[30px] text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2864">
+ <p className="css-ew64yg leading-[30px] text-[18px] text-white tracking-[-0.02em]" data-node-id="2:2864">
             Read more
           </p>
  <div className="flex items-start " data-name="Icon" data-node-id="2:2865">

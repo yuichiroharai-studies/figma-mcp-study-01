@@ -11,7 +11,7 @@ export default function Trial() {
  <p className="css-4hzbpn font-bold leading-[52px] text-[40px] w-full" data-node-id="2:2942">
             Try Whitepace today
           </p>
- <div className="leading-[30px] text-[18px] tracking-[-0.36px] w-full" data-node-id="2:2943">
+ <div className="leading-[30px] text-[18px] tracking-[-0.02em] w-full" data-node-id="2:2943">
             <p className="css-4hzbpn mb-0">{`Get started for free. `}</p>
             <p className="css-4hzbpn">Add your whole team as your needs grow.</p>
           </div>
@@ -28,7 +28,7 @@ export default function Trial() {
             </div>
           </div>
         </div>
- <p className="css-4hzbpn leading-[30px] text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2950">
+ <p className="css-4hzbpn leading-[30px] text-[18px] text-white tracking-[-0.02em]" data-node-id="2:2950">
           On a big team? Contact sales
         </p>
  <div className="flex gap-[40px] items-start " data-name="App-icon" data-node-id="2:2951">

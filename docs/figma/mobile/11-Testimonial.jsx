@@ -22,7 +22,7 @@ export default function Testimonial() {
                 </div>
               </div>
             </div>
- <p className="css-4hzbpn leading-[20px] text-[16px] tracking-[-0.32px]" data-node-id="2:3010">
+ <p className="css-4hzbpn leading-[20px] text-[16px] tracking-[-0.02em]" data-node-id="2:3010">
               Taskkey is designed as a collaboration tool for businesses that is a full project management solution.
             </p>
           </div>
@@ -30,7 +30,7 @@ export default function Testimonial() {
  <div className=" size-[65px]" data-name="Avater" data-node-id="2:3012">
               <img alt="" className="block max-w-none size-full" height="65" src={imgAvater} width="65" />
             </div>
- <div className="flex flex-col gap-[15px] items-start text-[18px] tracking-[-0.36px] w-full" data-name="Name" data-node-id="2:3013">
+ <div className="flex flex-col gap-[15px] items-start text-[18px] tracking-[-0.02em] w-full" data-name="Name" data-node-id="2:3013">
  <p className="css-4hzbpn font-bold w-full" data-node-id="2:3014">
                 Oberon Shaw, MCH
               </p>
