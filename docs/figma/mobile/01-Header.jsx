@@ -14,7 +14,7 @@ export default function Header() {
           </p>
         </div>
       </div>
-      <div className="flex gap-[40px] items-center relative" data-name="Btn" data-node-id="2:2879">
+      <div className="flex items-center relative" data-name="Btn" data-node-id="2:2879">
         <div className="h-[26px] relative w-[42px]" data-name="Vector (Stroke)" data-node-id="13:15">
           <img alt="" className="block max-w-none size-full" src={imgVectorStroke} />
         </div>
