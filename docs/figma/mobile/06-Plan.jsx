@@ -10,10 +10,10 @@ export default function Plan() {
         <div className="absolute inset-[27.33%_29.17%_61.6%_34.03%]" data-name="Element" data-node-id="2:2366">
           <img alt="" className="block max-w-none size-full" src={imgElement} />
         </div>
-        <p className="css-4hzbpn font-bold leading-[normal] relative text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2395">
+        <p className="css-4hzbpn font-bold relative text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2395">
           Choose Your Plan
         </p>
-        <p className="css-4hzbpn font-normal leading-[30px] relative text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2396">
+        <p className="css-4hzbpn leading-[30px] relative text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2396">
           Whether you want to get organized, keep your personal life on track, or boost workplace productivity, Evernote has the right plan for you.
         </p>
       </div>
@@ -23,10 +23,10 @@ export default function Plan() {
             <p className="css-4hzbpn font-semibold leading-[36px] relative text-[24px] w-full" data-node-id="2:2400">
               Free
             </p>
-            <p className="css-4hzbpn font-medium leading-[normal] relative text-[36px] w-full" data-node-id="2:2401">
+            <p className="css-4hzbpn font-medium relative text-[36px] w-full" data-node-id="2:2401">
               $0
             </p>
-            <p className="css-4hzbpn font-normal leading-[20px] relative text-[16px] w-full" data-node-id="2:2402">
+            <p className="css-4hzbpn leading-[20px] relative text-[16px] w-full" data-node-id="2:2402">
               Capture ideas and find them quickly
             </p>
           </div>
@@ -37,7 +37,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2408">
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2408">
                 Sync unlimited devices
               </p>
             </div>
@@ -47,7 +47,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2413">{`10 GB monthly uploads `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2413">{`10 GB monthly uploads `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2414">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2415">
@@ -55,7 +55,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2418">{`200 MB max. note size `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2418">{`200 MB max. note size `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2419">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2420">
@@ -63,7 +63,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2423">
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2423">
                 Customize Home dashboard and access extra widgets
               </p>
             </div>
@@ -73,7 +73,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2428">{`Connect primary Google Calendar account `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2428">{`Connect primary Google Calendar account `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2429">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2430">
@@ -81,7 +81,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2433">{`Add due dates, reminders, and notifications to your tasks  `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2433">{`Add due dates, reminders, and notifications to your tasks  `}</p>
             </div>
           </div>
           <div className="bg-[#4f9cf9] flex items-center justify-center px-[20px] py-[16px] relative rounded-[6px]" data-name="Btn-get-started" data-node-id="2:2434">
@@ -95,10 +95,10 @@ export default function Plan() {
             <p className="css-4hzbpn font-semibold leading-[36px] relative text-[24px] w-full" data-node-id="2:2438">
               Personal
             </p>
-            <p className="css-4hzbpn font-bold leading-[normal] relative text-[36px] tracking-[-0.72px] w-full" data-node-id="2:2439">
+            <p className="css-4hzbpn font-bold relative text-[36px] tracking-[-0.72px] w-full" data-node-id="2:2439">
               $11.2
             </p>
-            <p className="css-4hzbpn font-normal leading-[20px] relative text-[16px] tracking-[-0.32px] w-full" data-node-id="2:2440">
+            <p className="css-4hzbpn leading-[20px] relative text-[16px] tracking-[-0.32px] w-full" data-node-id="2:2440">
               Keep home and family on track
             </p>
           </div>
@@ -109,7 +109,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon1} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2446">
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2446">
                 Sync unlimited devices
               </p>
             </div>
@@ -119,7 +119,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon1} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2451">{`10 GB monthly uploads `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2451">{`10 GB monthly uploads `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2452">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2453">
@@ -127,7 +127,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon1} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2456">{`200 MB max. note size `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2456">{`200 MB max. note size `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2457">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2458">
@@ -135,7 +135,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon1} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2461">
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2461">
                 Customize Home dashboard and access extra widgets
               </p>
             </div>
@@ -145,7 +145,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon1} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2466">{`Connect primary Google Calendar account `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2466">{`Connect primary Google Calendar account `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2467">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2468">
@@ -153,11 +153,11 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon1} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2471">{`Add due dates, reminders, and notifications to your tasks  `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[#fefefe] text-[16px] tracking-[-0.32px]" data-node-id="2:2471">{`Add due dates, reminders, and notifications to your tasks  `}</p>
             </div>
           </div>
           <div className="bg-[#4f9cf9] flex items-center justify-center px-[40px] py-[16px] relative rounded-[8px]" data-name="Btn-get-started" data-node-id="2:2472">
-            <p className="css-ew64yg font-normal leading-[30px] relative text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2473">
+            <p className="css-ew64yg leading-[30px] relative text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2473">
               Get Started
             </p>
           </div>
@@ -167,10 +167,10 @@ export default function Plan() {
             <p className="css-4hzbpn font-semibold leading-[36px] relative text-[24px] w-full" data-node-id="2:2476">
               Free
             </p>
-            <p className="css-4hzbpn font-medium leading-[normal] relative text-[36px] w-full" data-node-id="2:2477">
+            <p className="css-4hzbpn font-medium relative text-[36px] w-full" data-node-id="2:2477">
               $0
             </p>
-            <p className="css-4hzbpn font-normal leading-[20px] relative text-[16px] w-full" data-node-id="2:2478">
+            <p className="css-4hzbpn leading-[20px] relative text-[16px] w-full" data-node-id="2:2478">
               Capture ideas and find them quickly
             </p>
           </div>
@@ -181,7 +181,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2484">
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2484">
                 Sync unlimited devices
               </p>
             </div>
@@ -191,7 +191,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2489">{`10 GB monthly uploads `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2489">{`10 GB monthly uploads `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2490">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2491">
@@ -199,7 +199,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2494">{`200 MB max. note size `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2494">{`200 MB max. note size `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2495">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2496">
@@ -207,7 +207,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2499">
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2499">
                 Customize Home dashboard and access extra widgets
               </p>
             </div>
@@ -217,7 +217,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2504">{`Connect primary Google Calendar account `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2504">{`Connect primary Google Calendar account `}</p>
             </div>
             <div className="flex gap-[19px] items-center relative w-full" data-name="Point" data-node-id="2:2505">
               <div className="relative size-[18.006px]" data-name="Icon" data-node-id="2:2506">
@@ -225,7 +225,7 @@ export default function Plan() {
                   <img alt="" className="block max-w-none size-full" src={imgIcon} />
                 </div>
               </div>
-              <p className="css-4hzbpn flex-[1_0_0] font-normal leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2509">{`Add due dates, reminders, and notifications to your tasks  `}</p>
+              <p className="css-4hzbpn flex-[1_0_0] leading-[20px] min-h-px min-w-px relative text-[16px]" data-node-id="2:2509">{`Add due dates, reminders, and notifications to your tasks  `}</p>
             </div>
           </div>
           <div className="bg-[#4f9cf9] flex items-center justify-center px-[20px] py-[16px] relative rounded-[6px]" data-name="Btn-get-started" data-node-id="2:2510">

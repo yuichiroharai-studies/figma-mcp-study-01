@@ -6,7 +6,7 @@ export default function Sponsors() {
       <div className="absolute inset-[14.29%_5.31%_82.88%_35.31%]" data-name="Element" data-node-id="2:2655">
         <img alt="" className="block max-w-none size-full" src={imgElement} />
       </div>
-      <p className="css-4hzbpn font-bold leading-[normal] relative text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2684">
+      <p className="css-4hzbpn font-bold relative text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2684">
         Our sponsors
       </p>
       <div className="flex flex-col gap-[100px] items-center relative w-full" data-name="sponsors" data-node-id="2:2685">

@@ -10,13 +10,13 @@ export default function YourData() {
           <div className="absolute inset-[11.52%_-4.86%_79.85%_37.5%]" data-name="Element" data-node-id="2:2617">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
-          <p className="css-4hzbpn font-bold leading-[normal] relative text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2646">
+          <p className="css-4hzbpn font-bold relative text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2646">
             100% your data
           </p>
-          <p className="css-4hzbpn font-normal leading-[30px] relative text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2647">{`The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.`}</p>
+          <p className="css-4hzbpn leading-[30px] relative text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2647">{`The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.`}</p>
         </div>
         <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center px-[40px] py-[20px] relative rounded-[8px]" data-name="Btn-try" data-node-id="2:2648">
-          <p className="css-ew64yg font-normal leading-[30px] relative text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2649">
+          <p className="css-ew64yg leading-[30px] relative text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2649">
             Read more
           </p>
           <div className="flex items-start relative" data-name="Icon" data-node-id="2:2650">

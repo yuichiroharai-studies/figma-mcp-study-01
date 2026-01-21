@@ -18,53 +18,53 @@ export default function Footer() {
                   <img alt="" className="block max-w-none size-full" src={imgGroup} />
                 </div>
               </div>
-              <p className="col-1 css-ew64yg font-bold leading-[normal] ml-[47px] mt-0 relative row-1 text-[28px] text-white" data-node-id="2:2111">
+              <p className="col-1 css-ew64yg font-bold ml-[47px] mt-0 relative row-1 text-[28px] text-white" data-node-id="2:2111">
                 whitepace
               </p>
             </div>
-            <div className="font-normal relative text-[#f7f7ee] text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2112">
+            <div className="relative text-[#f7f7ee] text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2112">
               <p className="css-4hzbpn mb-0">
-                <span className="font-normal leading-[30px]">whitepace</span>
+                <span className="leading-[30px]">whitepace</span>
                 <span className="leading-[30px]">{` was created for the new ways we live and work. `}</span>
               </p>
               <p className="css-4hzbpn leading-[30px]">We make beautyfully designed around the world</p>
             </div>
           </div>
           <div className="flex flex-col gap-[15px] items-center justify-center relative text-[18px] text-center tracking-[-0.36px] w-full" data-name="Info" data-node-id="2:2113">
-            <p className="css-ew64yg font-bold leading-[normal] relative text-white" data-node-id="2:2114">
+            <p className="css-ew64yg font-bold relative text-white" data-node-id="2:2114">
               Product
             </p>
-            <p className="css-ew64yg font-normal leading-[30px] relative text-[#ffe492]" data-node-id="2:2115">
+            <p className="css-ew64yg leading-[30px] relative text-[#ffe492]" data-node-id="2:2115">
               Overview
             </p>
-            <p className="css-ew64yg font-normal leading-[30px] relative text-white" data-node-id="2:2116">
+            <p className="css-ew64yg leading-[30px] relative text-white" data-node-id="2:2116">
               Pricing
             </p>
-            <p className="css-4hzbpn font-normal leading-[30px] relative text-white w-[177px]" data-node-id="2:2117">
+            <p className="css-4hzbpn leading-[30px] relative text-white w-[177px]" data-node-id="2:2117">
               Customer stories
             </p>
           </div>
           <div className="flex flex-col gap-[16px] items-center justify-center relative text-[18px] text-center text-white tracking-[-0.36px] w-full" data-name="Info" data-node-id="2:2118">
-            <p className="css-ew64yg font-bold leading-[normal] relative" data-node-id="2:2119">
+            <p className="css-ew64yg font-bold relative" data-node-id="2:2119">
               Resources
             </p>
-            <p className="css-ew64yg font-normal leading-[30px] relative" data-node-id="2:2120">
+            <p className="css-ew64yg leading-[30px] relative" data-node-id="2:2120">
               Blog
             </p>
-            <p className="css-ew64yg font-normal leading-[30px] relative" data-node-id="2:2121">{`Guides & tutorials`}</p>
-            <p className="css-4hzbpn font-normal leading-[30px] relative w-[130px]" data-node-id="2:2122">
+            <p className="css-ew64yg leading-[30px] relative" data-node-id="2:2121">{`Guides & tutorials`}</p>
+            <p className="css-4hzbpn leading-[30px] relative w-[130px]" data-node-id="2:2122">
               Help center
             </p>
           </div>
           <div className="flex flex-col gap-[16px] items-center justify-center relative text-[18px] text-center text-white tracking-[-0.36px] w-full" data-name="Info" data-node-id="2:2123">
-            <p className="css-ew64yg font-bold leading-[normal] relative" data-node-id="2:2124">
+            <p className="css-ew64yg font-bold relative" data-node-id="2:2124">
               Company
             </p>
-            <p className="css-ew64yg font-normal leading-[30px] relative" data-node-id="2:2125">
+            <p className="css-ew64yg leading-[30px] relative" data-node-id="2:2125">
               About us
             </p>
-            <p className="css-ew64yg font-normal leading-[30px] relative" data-node-id="2:2126">{`Careers `}</p>
-            <p className="css-4hzbpn font-normal leading-[30px] relative w-[99px]" data-node-id="2:2127">
+            <p className="css-ew64yg leading-[30px] relative" data-node-id="2:2126">{`Careers `}</p>
+            <p className="css-4hzbpn leading-[30px] relative w-[99px]" data-node-id="2:2127">
               Media kit
             </p>
           </div>
@@ -72,12 +72,12 @@ export default function Footer() {
             <p className="css-ew64yg font-bold leading-[36px] relative text-[28px] text-center text-white tracking-[-0.56px]" data-node-id="2:2129">
               Try It Today
             </p>
-            <div className="font-normal leading-[30px] relative text-[18px] text-center text-white tracking-[-0.36px]" data-node-id="2:2130">
+            <div className="leading-[30px] relative text-[18px] text-center text-white tracking-[-0.36px]" data-node-id="2:2130">
               <p className="css-4hzbpn mb-0">{`Get started for free. `}</p>
               <p className="css-4hzbpn">Add your whole team as your needs grow.</p>
             </div>
             <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center px-[40px] py-[20px] relative rounded-[8px]" data-name="Btn-try" data-node-id="2:2131">
-              <p className="css-ew64yg font-normal leading-[30px] relative text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2132">
+              <p className="css-ew64yg leading-[30px] relative text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2132">
                 Start today
               </p>
               <div className="flex items-start relative" data-name="Icon" data-node-id="2:2133">
@@ -100,21 +100,21 @@ export default function Footer() {
                   </div>
                 </div>
               </div>
-              <p className="css-ew64yg font-normal leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2144">
+              <p className="css-ew64yg leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2144">
                 English
               </p>
               <div className="h-[15px] relative w-[21px]" data-name="Arrow" data-node-id="2:2145">
                 <img alt="" className="block max-w-none size-full" src={imgArrow} />
               </div>
             </div>
-            <p className="css-ew64yg font-normal leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2147">{`Terms & privacy`}</p>
-            <p className="css-ew64yg font-normal leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2148">
+            <p className="css-ew64yg leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2147">{`Terms & privacy`}</p>
+            <p className="css-ew64yg leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2148">
               Security
             </p>
-            <p className="css-ew64yg font-normal leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2149">
+            <p className="css-ew64yg leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2149">
               Status
             </p>
-            <p className="css-ew64yg font-normal leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2150">
+            <p className="css-ew64yg leading-[20px] relative text-[16px] text-white tracking-[-0.32px]" data-node-id="2:2150">
               ©2021 Whitepace LLC.
             </p>
           </div>

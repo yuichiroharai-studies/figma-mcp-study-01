@@ -15,7 +15,7 @@ export default function Customise() {
           <p className="css-4hzbpn font-bold leading-[52px] relative text-[40px] text-center" data-node-id="2:2931">
             Customise it to your needs
           </p>
-          <p className="css-4hzbpn font-normal leading-[23px] relative text-[18px] text-center" data-node-id="2:2932">
+          <p className="css-4hzbpn leading-[23px] relative text-[18px] text-center" data-node-id="2:2932">
             Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
           </p>
         </div>
