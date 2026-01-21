@@ -16,10 +16,10 @@ export default function Management() {
                 </div>
               </div>
             </div>
-            <p className="css-4hzbpn font-bold leading-[normal] relative text-[#212529] text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2218">
+            <p className="css-4hzbpn font-bold leading-[normal] relative text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2218">
               Project Management
             </p>
-            <p className="css-4hzbpn font-normal leading-[30px] relative text-[#212529] text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2219">
+            <p className="css-4hzbpn font-normal leading-[30px] relative text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2219">
               Images, videos, PDFs and audio files are supported. Create math expressions and diagrams directly from the app. Take photos with the mobile app and save them to a note.
             </p>
           </div>
@@ -42,10 +42,10 @@ export default function Management() {
             <div className="absolute inset-[9.35%_6.6%_81.47%_42.36%]" data-name="Element" data-node-id="2:2254">
               <img alt="" className="block max-w-none size-full" src={imgElement1} />
             </div>
-            <p className="css-4hzbpn font-bold leading-[normal] relative text-[#212529] text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2283">
+            <p className="css-4hzbpn font-bold leading-[normal] relative text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2283">
               Work together
             </p>
-            <p className="css-4hzbpn font-normal leading-[30px] relative text-[#212529] text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2284">{`With whitepace, share your notes with your colleagues and collaborate on them. You can also publish a note to the internet and share the URL with others. `}</p>
+            <p className="css-4hzbpn font-normal leading-[30px] relative text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2284">{`With whitepace, share your notes with your colleagues and collaborate on them. You can also publish a note to the internet and share the URL with others. `}</p>
           </div>
           <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center overflow-clip px-[40px] py-[20px] relative rounded-[8px]" data-name="Btn-get-started" data-node-id="2:2285">
             <p className="css-ew64yg font-normal leading-[30px] relative text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2286">

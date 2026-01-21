@@ -12,10 +12,10 @@ export default function Customise() {
           <div className="absolute inset-[31.95%_-3.13%_58.28%_48.61%]" data-name="Element" data-node-id="2:2902">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
-          <p className="css-4hzbpn font-bold leading-[52px] relative text-[#212529] text-[40px] text-center" data-node-id="2:2931">
+          <p className="css-4hzbpn font-bold leading-[52px] relative text-[40px] text-center" data-node-id="2:2931">
             Customise it to your needs
           </p>
-          <p className="css-4hzbpn font-normal leading-[23px] relative text-[#212529] text-[18px] text-center" data-node-id="2:2932">
+          <p className="css-4hzbpn font-normal leading-[23px] relative text-[18px] text-center" data-node-id="2:2932">
             Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
           </p>
         </div>
