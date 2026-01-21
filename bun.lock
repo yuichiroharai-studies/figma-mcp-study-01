@@ -10,6 +10,7 @@
       "devDependencies": {
         "@eslint/js": "^9.39.2",
         "@tailwindcss/vite": "^4.1.18",
+        "classname-search": "^1.1.0",
         "eslint": "^9.39.2",
         "eslint-plugin-astro": "^1.5.0",
         "figma-mcp-downloader": "^1.0.0",
@@ -406,6 +407,8 @@
     "chokidar": ["chokidar@4.0.3", "", { "dependencies": { "readdirp": "^4.0.1" } }, "sha512-Qgzu8kfBvo+cA4962jnP1KkS6Dop5NS6g7R5LFYJr4b8Ub94PPQXUksCw9PvXoeXPRRddRNC5C1JQUR2SMGtnA=="],
 
     "ci-info": ["ci-info@4.3.1", "", {}, "sha512-Wdy2Igu8OcBpI2pZePZ5oWjPC38tmDVx5WKUXKwlLYkA0ozo85sLsLvkBbBn/sZaSCMFOGZJ14fvW9t5/d7kdA=="],
+
+    "classname-search": ["classname-search@1.1.0", "", { "dependencies": { "@modelcontextprotocol/sdk": "^1.24.1", "commander": "^14.0.2", "fast-glob": "^3.3.3" }, "bin": { "classname-search": "dist/cli.js" } }, "sha512-oK/WZ6CFNcnr/FyoEj5bz23EzIUoa77SgyKC6nQ2rvdq1+WQ5gz2WgBeB0wycSBabRwQn7DEmGaIg813RjXaMw=="],
 
     "cli-boxes": ["cli-boxes@3.0.0", "", {}, "sha512-/lzGpEWL/8PfI0BmBOPRwp0c/wFNX1RdUML3jK/RcSBA9T8mZDdQpqYBKtCFTOfQbwPqWEOpjqW+Fnayc0969g=="],
 
