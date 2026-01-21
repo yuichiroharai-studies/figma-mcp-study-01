@@ -3,24 +3,24 @@ const imgGroup214 = "http://localhost:3845/assets/e7b19cff4422768f834260cffe792f
 
 export default function YourData() {
   return (
-    <div className="content-stretch flex flex-col gap-[100px] items-center justify-center px-[16px] py-[80px] relative size-full" data-name="YourData" data-node-id="2:2556">
-      <div className="bg-[#c4defd] h-[163px] shrink-0 w-full" data-name="Placeholder" data-node-id="2:3022" />
-      <div className="content-stretch flex flex-col gap-[60px] items-center relative shrink-0 w-full" data-name="Heading" data-node-id="2:2615">
-        <div className="content-stretch flex flex-col gap-[24px] items-center relative shrink-0 w-full" data-name="Text-block" data-node-id="2:2616">
+    <div className="flex flex-col gap-[100px] items-center justify-center px-[16px] py-[80px] relative size-full" data-name="YourData" data-node-id="2:2556">
+      <div className="bg-[#c4defd] h-[163px] w-full" data-name="Placeholder" data-node-id="2:3022" />
+      <div className="flex flex-col gap-[60px] items-center relative w-full" data-name="Heading" data-node-id="2:2615">
+        <div className="flex flex-col gap-[24px] items-center relative w-full" data-name="Text-block" data-node-id="2:2616">
           <div className="absolute inset-[11.52%_-4.86%_79.85%_37.5%]" data-name="Element" data-node-id="2:2617">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
-          <p className="css-4hzbpn font-bold leading-[normal] min-w-full not-italic relative shrink-0 text-[#212529] text-[36px] text-center tracking-[-0.72px] w-[min-content]" data-node-id="2:2646">
+          <p className="css-4hzbpn font-bold leading-[normal] relative text-[#212529] text-[36px] text-center tracking-[-0.72px]" data-node-id="2:2646">
             100% your data
           </p>
-          <p className="css-4hzbpn font-normal leading-[30px] min-w-full not-italic relative shrink-0 text-[#212529] text-[18px] text-center tracking-[-0.36px] w-[min-content]" data-node-id="2:2647">{`The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.`}</p>
+          <p className="css-4hzbpn font-normal leading-[30px] relative text-[#212529] text-[18px] text-center tracking-[-0.36px]" data-node-id="2:2647">{`The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.`}</p>
         </div>
-        <div className="bg-[#4f9cf9] content-stretch flex gap-[10px] items-center justify-center px-[40px] py-[20px] relative rounded-[8px] shrink-0" data-name="Btn-try" data-node-id="2:2648">
-          <p className="css-ew64yg font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2649">
+        <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center px-[40px] py-[20px] relative rounded-[8px]" data-name="Btn-try" data-node-id="2:2648">
+          <p className="css-ew64yg font-normal leading-[30px] relative text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2649">
             Read more
           </p>
-          <div className="content-stretch flex items-start relative shrink-0" data-name="Icon" data-node-id="2:2650">
-            <div className="relative shrink-0 size-[14px]" data-node-id="2:2651">
+          <div className="flex items-start relative" data-name="Icon" data-node-id="2:2650">
+            <div className="relative size-[14px]" data-node-id="2:2651">
               <div className="absolute inset-[-3.57%]">
                 <img alt="" className="block max-w-none size-full" src={imgGroup214} />
               </div>
