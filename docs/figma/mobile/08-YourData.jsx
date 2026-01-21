@@ -4,9 +4,9 @@ const imgGroup214 = "http://localhost:3845/assets/e7b19cff4422768f834260cffe792f
 export default function YourData() {
   return (
  <div className="flex flex-col gap-[100px] items-center justify-center px-[16px] py-[80px] size-full" data-name="YourData" data-node-id="2:2556">
-      <div className="bg-[#c4defd] h-[163px] w-full" data-name="Placeholder" data-node-id="2:3022" />
- <div className="flex flex-col gap-[60px] items-center w-full" data-name="Heading" data-node-id="2:2615">
-        <div className="flex flex-col gap-[24px] items-center relative w-full" data-name="Text-block" data-node-id="2:2616">
+      <div className="bg-[#c4defd] h-[163px]" data-name="Placeholder" data-node-id="2:3022" />
+ <div className="flex flex-col gap-[60px] items-center" data-name="Heading" data-node-id="2:2615">
+        <div className="flex flex-col gap-[24px] items-center relative" data-name="Text-block" data-node-id="2:2616">
           <div className="absolute inset-[11.52%_-4.86%_79.85%_37.5%]" data-name="Element" data-node-id="2:2617">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>

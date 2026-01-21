@@ -9,9 +9,9 @@ const imgLinkedin = "http://localhost:3845/assets/8ba9abf918e0b011f79df052bfb611
 export default function Footer() {
   return (
  <div className="bg-[#043873] flex flex-col items-center justify-center pb-[32px] pt-[140px] px-[16px] size-full" data-name="Footer" data-node-id="2:2100">
- <div className="flex flex-col gap-[80px] items-center justify-center w-full" data-name="Content" data-node-id="2:2101">
- <div className="flex flex-col gap-[80px] items-center justify-center w-full" data-name="Info" data-node-id="2:2102">
- <div className="flex flex-col gap-[24px] items-center leading-[0] w-full" data-name="Logo-description" data-node-id="2:2103">
+ <div className="flex flex-col gap-[80px] items-center justify-center" data-name="Content" data-node-id="2:2101">
+ <div className="flex flex-col gap-[80px] items-center justify-center" data-name="Info" data-node-id="2:2102">
+ <div className="flex flex-col gap-[24px] items-center leading-[0]" data-name="Logo-description" data-node-id="2:2103">
  <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid items-[start] justify-items-[start] " data-name="Logo" data-node-id="2:2104">
               <div className="col-1 h-[29px] ml-0 mt-[2.5px] overflow-clip relative row-1 w-[37px]" data-name="Logo Icon" data-node-id="2:2105">
                 <div className="absolute inset-[-0.36%_0_0.35%_0]" data-name="Group" data-node-id="2:2106">
@@ -30,7 +30,7 @@ export default function Footer() {
               <p className="css-4hzbpn leading-[30px]">We make beautyfully designed around the world</p>
             </div>
           </div>
- <div className="flex flex-col gap-[15px] items-center justify-center text-[18px] text-center tracking-[-0.36px] w-full" data-name="Info" data-node-id="2:2113">
+ <div className="flex flex-col gap-[15px] items-center justify-center text-[18px] text-center tracking-[-0.36px]" data-name="Info" data-node-id="2:2113">
  <p className="css-ew64yg font-bold text-white" data-node-id="2:2114">
               Product
             </p>
@@ -44,7 +44,7 @@ export default function Footer() {
               Customer stories
             </p>
           </div>
- <div className="flex flex-col gap-[16px] items-center justify-center text-[18px] text-center text-white tracking-[-0.36px] w-full" data-name="Info" data-node-id="2:2118">
+ <div className="flex flex-col gap-[16px] items-center justify-center text-[18px] text-center text-white tracking-[-0.36px]" data-name="Info" data-node-id="2:2118">
  <p className="css-ew64yg font-bold " data-node-id="2:2119">
               Resources
             </p>
@@ -56,7 +56,7 @@ export default function Footer() {
               Help center
             </p>
           </div>
- <div className="flex flex-col gap-[16px] items-center justify-center text-[18px] text-center text-white tracking-[-0.36px] w-full" data-name="Info" data-node-id="2:2123">
+ <div className="flex flex-col gap-[16px] items-center justify-center text-[18px] text-center text-white tracking-[-0.36px]" data-name="Info" data-node-id="2:2123">
  <p className="css-ew64yg font-bold " data-node-id="2:2124">
               Company
             </p>
@@ -90,8 +90,8 @@ export default function Footer() {
             </div>
           </div>
         </div>
- <div className="flex flex-col gap-[20px] items-center justify-center w-full" data-name="Btm" data-node-id="2:2137">
- <div className="border-[#2e4e73] border-b border-solid flex flex-col gap-[20px] items-center justify-center pb-[20px] pt-0 px-0 w-full" data-name="Tems and condition" data-node-id="2:2138">
+ <div className="flex flex-col gap-[20px] items-center justify-center" data-name="Btm" data-node-id="2:2137">
+ <div className="border-[#2e4e73] border-b border-solid flex flex-col gap-[20px] items-center justify-center pb-[20px] pt-0 px-0" data-name="Tems and condition" data-node-id="2:2138">
  <div className="flex gap-[6px] items-center justify-center " data-name="Language" data-node-id="2:2139">
  <div className="flex flex-col items-start " data-name="Icon" data-node-id="2:2140">
  <div className="grid-cols-[max-content] grid-rows-[max-content] inline-grid items-[start] justify-items-[start] leading-[0] " data-name="Group" data-node-id="2:2141">

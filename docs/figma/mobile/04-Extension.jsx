@@ -4,8 +4,8 @@ const imgGroup214 = "http://localhost:3845/assets/e7b19cff4422768f834260cffe792f
 export default function Extension() {
   return (
  <div className="bg-[#043873] flex flex-col gap-[60px] items-center justify-center px-[16px] py-[80px] size-full" data-name="Extension" data-node-id="2:2322">
- <div className="flex flex-col gap-[60px] items-center justify-center w-full" data-name="Heading" data-node-id="2:2323">
-        <div className="flex flex-col gap-[24px] items-center justify-center relative w-full" data-name="Text-block" data-node-id="2:2324">
+ <div className="flex flex-col gap-[60px] items-center justify-center" data-name="Heading" data-node-id="2:2323">
+        <div className="flex flex-col gap-[24px] items-center justify-center relative" data-name="Text-block" data-node-id="2:2324">
           <div className="absolute inset-[26.43%_16.32%_65.55%_20.14%]" data-name="Element" data-node-id="2:2325">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
@@ -29,7 +29,7 @@ export default function Extension() {
           </div>
         </div>
       </div>
- <div className="flex flex-col h-[200px] items-start w-full" data-name="Illustration" data-node-id="2:2362">
+ <div className="flex flex-col h-[200px] items-start" data-name="Illustration" data-node-id="2:2362">
         <div className="bg-[#c4defd] h-[198.653px] w-full" data-name="Image" data-node-id="2:2363" />
       </div>
     </div>

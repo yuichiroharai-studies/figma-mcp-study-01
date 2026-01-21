@@ -7,8 +7,8 @@ export default function Customise() {
  <div className="flex flex-col items-start " data-name="Image container" data-node-id="2:2898">
         <div className="bg-[#c4defd] h-[214.623px] w-[288px]" data-name="Image" data-node-id="2:2899" />
       </div>
- <div className="flex flex-col gap-[60px] items-center w-full" data-name="Heading" data-node-id="2:2900">
-        <div className="flex flex-col gap-[24px] items-center relative w-full" data-name="Text-block" data-node-id="2:2901">
+ <div className="flex flex-col gap-[60px] items-center" data-name="Heading" data-node-id="2:2900">
+        <div className="flex flex-col gap-[24px] items-center relative" data-name="Text-block" data-node-id="2:2901">
           <div className="absolute inset-[31.95%_-3.13%_58.28%_48.61%]" data-name="Element" data-node-id="2:2902">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>

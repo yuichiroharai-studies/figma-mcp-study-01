@@ -12,7 +12,7 @@ export default function Testimonial() {
  <p className="css-4hzbpn font-bold leading-[52px] text-[40px] text-center" data-node-id="2:3001">
         What Our Clients Says
       </p>
- <div className="flex items-center justify-center w-full" data-name="Content" data-node-id="2:3002">
+ <div className="flex items-center justify-center" data-name="Content" data-node-id="2:3002">
  <div className="bg-white flex flex-col gap-[40px] items-start p-[20px] rounded-[10px] shadow-[15px_10px_50px_0px_rgba(0,0,0,0.1)] w-[288px]" data-name="Client" data-node-id="2:3003">
  <div className="border-[#212529] border-b border-solid flex flex-col gap-[32px] items-start pb-[40px] pt-0 px-0 w-full" data-name="Comment" data-node-id="2:3004">
  <div className="flex flex-col items-start " data-name="Quote" data-node-id="2:3005">

@@ -6,7 +6,7 @@ const imgSlider = "http://localhost:3845/assets/cf8c9d3acfc5a7cd180216f9b4fb91ef
 export default function Plan() {
   return (
  <div className="flex flex-col gap-[60px] items-center justify-center px-[16px] py-[80px] size-full" data-name="Plan" data-node-id="2:2364">
-      <div className="flex flex-col gap-[24px] items-center relative w-full" data-name="Heading" data-node-id="2:2365">
+      <div className="flex flex-col gap-[24px] items-center relative" data-name="Heading" data-node-id="2:2365">
         <div className="absolute inset-[27.33%_29.17%_61.6%_34.03%]" data-name="Element" data-node-id="2:2366">
           <img alt="" className="block max-w-none size-full" src={imgElement} />
         </div>

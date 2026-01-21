@@ -7,8 +7,8 @@ export default function Management() {
   return (
  <div className="flex flex-col gap-[100px] items-start justify-center px-[16px] py-[80px] size-full" data-name="Management" data-node-id="2:2161">
  <div className="flex flex-col gap-[60px] items-center justify-center w-full" data-name="Content" data-node-id="2:2162">
- <div className="flex flex-col gap-[60px] items-center w-full" data-name="Headline" data-node-id="2:2163">
-          <div className="flex flex-col gap-[24px] items-center relative w-full" data-name="Text-block" data-node-id="2:2164">
+ <div className="flex flex-col gap-[60px] items-center" data-name="Headline" data-node-id="2:2163">
+          <div className="flex flex-col gap-[24px] items-center relative" data-name="Text-block" data-node-id="2:2164">
             <div className="absolute flex inset-[23.72%_9%_65.56%_11.45%] items-center justify-center">
               <div className="flex-none h-[30px] rotate-[359.675deg] skew-x-[359.888deg] w-[229.001px]">
  <div className=" size-full" data-name="Element" data-node-id="2:2189">
@@ -34,11 +34,11 @@ export default function Management() {
             </div>
           </div>
         </div>
-        <div className="bg-[#c4defd] h-[177px] w-full" data-name="Image-container" data-node-id="2:2226" />
+        <div className="bg-[#c4defd] h-[177px]" data-name="Image-container" data-node-id="2:2226" />
       </div>
  <div className="flex flex-col gap-[60px] items-center justify-center w-full" data-name="Content" data-node-id="2:2227">
- <div className="flex flex-col gap-[60px] items-center justify-center w-full" data-name="Headline" data-node-id="2:2228">
-          <div className="flex flex-col gap-[24px] items-center justify-center relative w-full" data-name="Text-block" data-node-id="2:2229">
+ <div className="flex flex-col gap-[60px] items-center justify-center" data-name="Headline" data-node-id="2:2228">
+          <div className="flex flex-col gap-[24px] items-center justify-center relative" data-name="Text-block" data-node-id="2:2229">
             <div className="absolute inset-[9.35%_6.6%_81.47%_42.36%]" data-name="Element" data-node-id="2:2254">
               <img alt="" className="block max-w-none size-full" src={imgElement1} />
             </div>
@@ -60,7 +60,7 @@ export default function Management() {
             </div>
           </div>
         </div>
-        <div className="bg-[#c4defd] h-[260px] w-full" data-name="Placeholder" data-node-id="2:3021" />
+        <div className="bg-[#c4defd] h-[260px]" data-name="Placeholder" data-node-id="2:3021" />
       </div>
     </div>
   );
