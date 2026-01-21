@@ -9,15 +9,15 @@ export default function YourWork() {
           <div className="absolute inset-[28.78%_4.86%_63.39%_0]" data-name="Element" data-node-id="2:2519">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
-          <p className="css-4hzbpn font-['Inter:Bold',sans-serif] font-bold leading-[normal] min-w-full not-italic relative shrink-0 text-[36px] text-white tracking-[-0.72px] w-[min-content]" data-node-id="2:2548">
+          <p className="css-4hzbpn font-bold leading-[normal] min-w-full not-italic relative shrink-0 text-[36px] text-white tracking-[-0.72px] w-[min-content]" data-node-id="2:2548">
             Your work, everywhere you are
           </p>
-          <p className="css-4hzbpn font-['Inter:Regular',sans-serif] font-normal leading-[30px] min-w-full not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px] w-[min-content]" data-node-id="2:2549">
+          <p className="css-4hzbpn font-normal leading-[30px] min-w-full not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px] w-[min-content]" data-node-id="2:2549">
             Access your notes from your computer, phone or tablet by synchronising with various services, including whitepace, Dropbox and OneDrive. The app is available on Windows, macOS, Linux, Android and iOS. A terminal app is also available!
           </p>
         </div>
         <div className="bg-[#4f9cf9] content-stretch flex gap-[10px] items-center justify-center px-[40px] py-[20px] relative rounded-[8px] shrink-0" data-name="Btn-try" data-node-id="2:2550">
-          <p className="css-ew64yg font-['Inter:Regular',sans-serif] font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2551">
+          <p className="css-ew64yg font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2551">
             Try Taskey
           </p>
           <div className="content-stretch flex items-start relative shrink-0" data-name="Icon" data-node-id="2:2552">

@@ -12,15 +12,15 @@ export default function Customise() {
           <div className="absolute inset-[31.95%_-3.13%_58.28%_48.61%]" data-name="Element" data-node-id="2:2902">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
-          <p className="css-4hzbpn font-['Inter:Bold','Noto_Sans:Bold',sans-serif] font-bold leading-[52px] min-w-full not-italic relative shrink-0 text-[#212529] text-[40px] text-center w-[min-content]" data-node-id="2:2931">
+          <p className="css-4hzbpn font-bold leading-[52px] min-w-full not-italic relative shrink-0 text-[#212529] text-[40px] text-center w-[min-content]" data-node-id="2:2931">
             Customise it to your needs
           </p>
-          <p className="css-4hzbpn font-['Montserrat:Regular',sans-serif] font-normal leading-[23px] min-w-full relative shrink-0 text-[#212529] text-[18px] text-center w-[min-content]" data-node-id="2:2932">
+          <p className="css-4hzbpn font-normal leading-[23px] min-w-full relative shrink-0 text-[#212529] text-[18px] text-center w-[min-content]" data-node-id="2:2932">
             Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
           </p>
         </div>
         <div className="bg-[#4f9cf9] content-stretch flex gap-[10px] items-center justify-center px-[40px] py-[20px] relative rounded-[6px] shrink-0" data-name="Btn-get-started" data-node-id="2:2933">
-          <p className="css-ew64yg font-['Montserrat:Medium',sans-serif] font-medium leading-[20px] relative shrink-0 text-[16px] text-white" data-node-id="2:2934">
+          <p className="css-ew64yg font-medium leading-[20px] relative shrink-0 text-[16px] text-white" data-node-id="2:2934">
             Let’s Go
           </p>
           <div className="content-stretch flex items-start relative shrink-0" data-name="Icon" data-node-id="2:2935">

@@ -10,13 +10,13 @@ export default function YourData() {
           <div className="absolute inset-[11.52%_-4.86%_79.85%_37.5%]" data-name="Element" data-node-id="2:2617">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
-          <p className="css-4hzbpn font-['Inter:Bold',sans-serif] font-bold leading-[normal] min-w-full not-italic relative shrink-0 text-[#212529] text-[36px] text-center tracking-[-0.72px] w-[min-content]" data-node-id="2:2646">
+          <p className="css-4hzbpn font-bold leading-[normal] min-w-full not-italic relative shrink-0 text-[#212529] text-[36px] text-center tracking-[-0.72px] w-[min-content]" data-node-id="2:2646">
             100% your data
           </p>
-          <p className="css-4hzbpn font-['Inter:Regular',sans-serif] font-normal leading-[30px] min-w-full not-italic relative shrink-0 text-[#212529] text-[18px] text-center tracking-[-0.36px] w-[min-content]" data-node-id="2:2647">{`The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.`}</p>
+          <p className="css-4hzbpn font-normal leading-[30px] min-w-full not-italic relative shrink-0 text-[#212529] text-[18px] text-center tracking-[-0.36px] w-[min-content]" data-node-id="2:2647">{`The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.`}</p>
         </div>
         <div className="bg-[#4f9cf9] content-stretch flex gap-[10px] items-center justify-center px-[40px] py-[20px] relative rounded-[8px] shrink-0" data-name="Btn-try" data-node-id="2:2648">
-          <p className="css-ew64yg font-['Inter:Regular',sans-serif] font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2649">
+          <p className="css-ew64yg font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2649">
             Read more
           </p>
           <div className="content-stretch flex items-start relative shrink-0" data-name="Icon" data-node-id="2:2650">

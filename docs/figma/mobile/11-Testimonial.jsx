@@ -9,7 +9,7 @@ export default function Testimonial() {
       <div className="absolute inset-[19.85%_40.31%_77.25%_11.88%]" data-name="Element" data-node-id="2:2972">
         <img alt="" className="block max-w-none size-full" src={imgElement} />
       </div>
-      <p className="css-4hzbpn font-['Inter:Bold',sans-serif] font-bold leading-[52px] min-w-full not-italic relative shrink-0 text-[#212529] text-[40px] text-center w-[min-content]" data-node-id="2:3001">
+      <p className="css-4hzbpn font-bold leading-[52px] min-w-full not-italic relative shrink-0 text-[#212529] text-[40px] text-center w-[min-content]" data-node-id="2:3001">
         What Our Clients Says
       </p>
       <div className="content-stretch flex items-center justify-center relative shrink-0 w-full" data-name="Content" data-node-id="2:3002">
@@ -22,7 +22,7 @@ export default function Testimonial() {
                 </div>
               </div>
             </div>
-            <p className="css-4hzbpn font-['Inter:Regular',sans-serif] font-normal leading-[20px] min-w-full not-italic relative shrink-0 text-[#212529] text-[16px] tracking-[-0.32px] w-[min-content]" data-node-id="2:3010">
+            <p className="css-4hzbpn font-normal leading-[20px] min-w-full not-italic relative shrink-0 text-[#212529] text-[16px] tracking-[-0.32px] w-[min-content]" data-node-id="2:3010">
               Taskkey is designed as a collaboration tool for businesses that is a full project management solution.
             </p>
           </div>
@@ -31,10 +31,10 @@ export default function Testimonial() {
               <img alt="" className="block max-w-none size-full" height="65" src={imgAvater} width="65" />
             </div>
             <div className="content-stretch flex flex-col gap-[15px] items-start not-italic relative shrink-0 text-[#212529] text-[18px] tracking-[-0.36px] w-full" data-name="Name" data-node-id="2:3013">
-              <p className="css-4hzbpn font-['Inter:Bold',sans-serif] font-bold leading-[normal] relative shrink-0 w-full" data-node-id="2:3014">
+              <p className="css-4hzbpn font-bold leading-[normal] relative shrink-0 w-full" data-node-id="2:3014">
                 Oberon Shaw, MCH
               </p>
-              <p className="css-4hzbpn font-['Inter:Regular',sans-serif] font-normal leading-[30px] relative shrink-0 w-full" data-node-id="2:3015">
+              <p className="css-4hzbpn font-normal leading-[30px] relative shrink-0 w-full" data-node-id="2:3015">
                 Head of Talent Acquisition, North America
               </p>
             </div>

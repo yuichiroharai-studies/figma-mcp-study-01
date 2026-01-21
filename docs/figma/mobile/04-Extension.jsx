@@ -9,15 +9,15 @@ export default function Extension() {
           <div className="absolute inset-[26.43%_16.32%_65.55%_20.14%]" data-name="Element" data-node-id="2:2325">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
-          <p className="css-4hzbpn font-['Inter:Bold',sans-serif] font-bold leading-[normal] min-w-full not-italic relative shrink-0 text-[36px] text-center text-white tracking-[-0.72px] w-[min-content]" data-node-id="2:2354">
+          <p className="css-4hzbpn font-bold leading-[normal] min-w-full not-italic relative shrink-0 text-[36px] text-center text-white tracking-[-0.72px] w-[min-content]" data-node-id="2:2354">
             Use as Extension
           </p>
-          <p className="css-4hzbpn font-['Inter:Regular',sans-serif] font-normal leading-[30px] min-w-full not-italic relative shrink-0 text-[18px] text-center text-white tracking-[-0.36px] w-[min-content]" data-node-id="2:2355">
+          <p className="css-4hzbpn font-normal leading-[30px] min-w-full not-italic relative shrink-0 text-[18px] text-center text-white tracking-[-0.36px] w-[min-content]" data-node-id="2:2355">
             Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
           </p>
         </div>
         <div className="bg-[#4f9cf9] content-stretch flex gap-[10px] items-center justify-center px-[40px] py-[20px] relative rounded-[8px] shrink-0" data-name="Btn-get-started" data-node-id="2:2356">
-          <p className="css-ew64yg font-['Inter:Regular',sans-serif] font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2357">
+          <p className="css-ew64yg font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2357">
             Let’s Go
           </p>
           <div className="content-stretch flex items-start relative shrink-0" data-name="Icon" data-node-id="2:2358">

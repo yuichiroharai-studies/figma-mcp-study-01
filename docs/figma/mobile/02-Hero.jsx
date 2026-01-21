@@ -6,15 +6,15 @@ export default function Hero() {
       <div className="content-stretch flex flex-col gap-[100px] items-center justify-center relative shrink-0 w-full" data-name="Heading / Image" data-node-id="2:2021">
         <div className="content-stretch flex flex-col gap-[60px] items-center justify-center relative shrink-0 w-full" data-name="Heading" data-node-id="2:2022">
           <div className="content-stretch flex flex-col gap-[24px] items-center justify-center not-italic relative shrink-0 text-center text-white w-full" data-name="Text-block" data-node-id="2:2023">
-            <p className="css-4hzbpn font-['Inter:Bold',sans-serif] font-bold leading-[normal] relative shrink-0 text-[36px] tracking-[-0.72px] w-full" data-node-id="2:2091">
+            <p className="css-4hzbpn font-bold leading-[normal] relative shrink-0 text-[36px] tracking-[-0.72px] w-full" data-node-id="2:2091">
               Get More Done with whitepace
             </p>
-            <p className="css-4hzbpn font-['Inter:Regular',sans-serif] font-normal leading-[30px] relative shrink-0 text-[18px] tracking-[-0.36px] w-full" data-node-id="2:2092">
+            <p className="css-4hzbpn font-normal leading-[30px] relative shrink-0 text-[18px] tracking-[-0.36px] w-full" data-node-id="2:2092">
               Project management software that enables your teams to collaborate, plan, analyze and manage everyday tasks
             </p>
           </div>
           <div className="bg-[#4f9cf9] content-stretch flex gap-[10px] items-center overflow-clip px-[40px] py-[20px] relative rounded-[8px] shrink-0" data-name="Btn-free-trial" data-node-id="2:2093">
-            <p className="css-ew64yg font-['Inter:Regular',sans-serif] font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2094">{`Try TasKey Free `}</p>
+            <p className="css-ew64yg font-normal leading-[30px] not-italic relative shrink-0 text-[18px] text-white tracking-[-0.36px]" data-node-id="2:2094">{`Try TasKey Free `}</p>
             <div className="relative shrink-0 size-[10px]" data-node-id="2:2095">
               <div className="absolute inset-[-5%]">
                 <img alt="" className="block max-w-none size-full" src={imgGroup212} />
