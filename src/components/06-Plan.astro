@@ -1,0 +1,119 @@
+---
+const features = [
+  "Sync unlimited devices",
+  "10 GB monthly uploads ",
+  "200 MB max. note size ",
+  "Customize Home dashboard and access extra widgets",
+  "Connect primary Google Calendar account ",
+  "Add due dates, reminders, and notifications to your tasks ",
+];
+
+const plans = [
+  {
+    name: "Free",
+    price: "$0",
+    description: "Capture ideas and find them quickly",
+    variant: "light",
+  },
+  {
+    name: "Personal",
+    price: "$11.2",
+    description: "Keep home and family on track",
+    variant: "dark",
+  },
+  {
+    name: "Free",
+    price: "$0",
+    description: "Capture ideas and find them quickly",
+    variant: "light",
+  },
+];
+---
+
+<section class="flex flex-col gap-15 items-center justify-center px-4 py-20 max-w-120 mx-auto">
+  <div class="flex flex-col gap-6 items-center relative">
+    <div class="absolute inset-[27.33%_29.17%_61.6%_34.03%]">
+      <img alt="" class="block max-w-none size-full" src="https://placehold.co/53x14/c4defd/ffffff" />
+    </div>
+    <p class="font-bold text-[36px] text-center tracking-[-0.02em]">
+      Choose Your Plan
+    </p>
+    <p class="leading-7.5 text-[18px] text-center tracking-[-0.02em]">
+      Whether you want to get organized, keep your personal life on track, or boost workplace productivity, Evernote has the right plan for you.
+    </p>
+  </div>
+  <div class="flex flex-col gap-8 items-center justify-center w-full">
+    {plans.map((plan) => (
+      plan.variant === "dark" ? (
+        <div class="bg-[#043873] flex flex-col gap-6.25 items-start justify-center p-5 rounded-[10px] shadow-[0px_4px_50px_0px_rgba(0,0,0,0.08)] w-full">
+          <div class="flex flex-col gap-6.25 items-start text-[#fefefe] w-full">
+            <p class="font-semibold leading-9 text-[24px] w-full">
+              {plan.name}
+            </p>
+            <p class="font-bold text-[36px] tracking-[-0.02em] w-full">
+              {plan.price}
+            </p>
+            <p class="leading-5 text-[16px] tracking-[-0.02em] w-full">
+              {plan.description}
+            </p>
+          </div>
+          <ul class="flex flex-col gap-7 items-start w-full">
+            {features.map((feature) => (
+              <li class="flex gap-4.75 items-center w-full">
+                <div class="relative size-[18.006px]">
+                  <div class="absolute inset-[-5.55%]">
+                    <img alt="" class="block max-w-none size-full" src="https://placehold.co/19x19/c4defd/ffffff" />
+                  </div>
+                </div>
+                <p class="flex-[1_0_0] leading-5 min-h-px min-w-px text-[#fefefe] text-[16px] tracking-[-0.02em]">
+                  {feature}
+                </p>
+              </li>
+            ))}
+          </ul>
+          <button class="bg-[#4f9cf9] flex items-center justify-center px-10 py-4 rounded-lg cursor-pointer">
+            <span class="leading-7.5 text-[18px] text-white tracking-[-0.02em]">
+              Get Started
+            </span>
+          </button>
+        </div>
+      ) : (
+        <div class="bg-white border-4 border-[#ffe492] border-solid flex flex-col gap-6.25 items-start justify-center px-11 py-10 rounded-[10px] w-full">
+          <div class="flex flex-col gap-6.25 items-start w-full">
+            <p class="font-semibold leading-9 text-[24px] w-full">
+              {plan.name}
+            </p>
+            <p class="font-medium text-[36px] w-full">
+              {plan.price}
+            </p>
+            <p class="leading-5 text-[16px] w-full">
+              {plan.description}
+            </p>
+          </div>
+          <ul class="flex flex-col gap-7 items-start w-full">
+            {features.map((feature) => (
+              <li class="flex gap-4.75 items-center w-full">
+                <div class="relative size-[18.006px]">
+                  <div class="absolute inset-[-5.55%]">
+                    <img alt="" class="block max-w-none size-full" src="https://placehold.co/19x19/c4defd/ffffff" />
+                  </div>
+                </div>
+                <p class="flex-[1_0_0] leading-5 min-h-px min-w-px text-[16px]">
+                  {feature}
+                </p>
+              </li>
+            ))}
+          </ul>
+          <button class="bg-[#4f9cf9] flex items-center justify-center px-5 py-4 rounded-md cursor-pointer">
+            <span class="font-medium leading-5 text-[16px] text-white">
+              Get Started
+            </span>
+          </button>
+        </div>
+      )
+    ))}
+  </div>
+  <div class="h-3 w-15">
+    <img alt="" class="block max-w-none size-full" src="https://placehold.co/60x12/c4defd/ffffff" />
+  </div>
+</section>

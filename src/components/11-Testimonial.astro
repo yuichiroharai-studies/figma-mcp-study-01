@@ -1,0 +1,49 @@
+---
+const testimonials = [
+  {
+    quote: "Taskkey is designed as a collaboration tool for businesses that is a full project management solution.",
+    avatar: "https://placehold.co/65x65/c4defd/ffffff",
+    name: "Oberon Shaw, MCH",
+    title: "Head of Talent Acquisition, North America",
+  },
+];
+---
+
+<section class="flex flex-col gap-[60px] items-center justify-center px-4 py-[100px] relative max-w-120 mx-auto">
+  <div class="absolute inset-[19.85%_40.31%_77.25%_11.88%]">
+    <img alt="" class="block max-w-none size-full" src="https://placehold.co/153x20/c4defd/ffffff" />
+  </div>
+  <h2 class="font-bold leading-[52px] text-[40px] text-center">
+    What Our Clients Says
+  </h2>
+  <div class="flex items-center justify-center">
+    {testimonials.map((testimonial) => (
+      <article class="bg-white flex flex-col gap-10 items-start p-5 rounded-[10px] shadow-[15px_10px_50px_0px_rgba(0,0,0,0.1)] w-72">
+        <div class="border-[#212529] border-b border-solid flex flex-col gap-8 items-start pb-10 w-full">
+          <div class="flex flex-col items-start">
+            <div class="inline-grid leading-[0]">
+              <img alt="" class="block max-w-none h-[40px] w-14" src="https://placehold.co/56x40/c4defd/ffffff" />
+            </div>
+          </div>
+          <p class="leading-5 text-base tracking-[-0.02em]">
+            {testimonial.quote}
+          </p>
+        </div>
+        <div class="flex flex-col gap-6 items-start justify-end w-full">
+          <img alt="" class="block max-w-none size-[65px]" src={testimonial.avatar} width="65" height="65" />
+          <div class="flex flex-col gap-[15px] items-start text-lg tracking-[-0.02em] w-full">
+            <p class="font-bold w-full">
+              {testimonial.name}
+            </p>
+            <p class="leading-[30px] w-full">
+              {testimonial.title}
+            </p>
+          </div>
+        </div>
+      </article>
+    ))}
+  </div>
+  <div class="h-3 w-[60px]">
+    <img alt="" class="block max-w-none size-full" src="https://placehold.co/60x12/c4defd/ffffff" />
+  </div>
+</section>

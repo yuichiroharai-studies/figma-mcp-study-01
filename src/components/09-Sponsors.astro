@@ -1,0 +1,24 @@
+---
+const sponsors = [
+  { width: 55, height: 68 },
+  { width: 213, height: 46 },
+  { width: 192, height: 49 },
+  { width: 139, height: 46 },
+];
+---
+
+<section class="flex flex-col gap-25 items-center justify-center px-4 py-20 relative max-w-120 mx-auto">
+  <h2 class="font-bold text-4xl text-center tracking-[-0.02em]">
+    Our sponsors
+  </h2>
+  <div class="flex flex-col gap-25 items-center">
+    {sponsors.map((sponsor) => (
+      <img
+        src={`https://placehold.co/${sponsor.width}x${sponsor.height}/c4defd/ffffff`}
+        alt=""
+        width={sponsor.width}
+        height={sponsor.height}
+      />
+    ))}
+  </div>
+</section>

@@ -1,0 +1,44 @@
+---
+const appIcons = [
+  { name: "Apple", width: 35, height: 36 },
+  { name: "Windows", width: 35, height: 36 },
+  { name: "Android", width: 35, height: 36 },
+];
+---
+
+<section class="bg-[#043873]">
+  <div class="max-w-120 mx-auto flex flex-col items-start justify-center pb-8 pt-25 px-4">
+    <div class="flex flex-col gap-10 items-start w-full">
+      <div class="flex flex-col gap-6 items-start text-white w-full">
+        <p class="font-bold leading-13 text-[40px] w-full">
+          Try Whitepace today
+        </p>
+        <div class="leading-7.5 text-lg tracking-[-0.02em] w-full">
+          <p class="mb-0">Get started for free.</p>
+          <p>Add your whole team as your needs grow.</p>
+        </div>
+      </div>
+      <button class="bg-[#4f9cf9] flex gap-2.5 items-center justify-center px-10 py-5 rounded-md cursor-pointer">
+        <span class="font-medium leading-5 text-base text-white">
+          Try Taskey free
+        </span>
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M1.5 7.5H13.5M13.5 7.5L7.5 1.5M13.5 7.5L7.5 13.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <p class="leading-7.5 text-lg text-white tracking-[-0.02em]">
+        On a big team? <a href="#" class="underline hover:text-[#4f9cf9] transition-colors">Contact sales</a>
+      </p>
+      <div class="flex gap-10 items-start">
+        {appIcons.map((icon) => (
+          <img
+            src={`https://placehold.co/${icon.width}x${icon.height}/c4defd/ffffff`}
+            alt={icon.name}
+            width={icon.width}
+            height={icon.height}
+          />
+        ))}
+      </div>
+    </div>
+  </div>
+</section>

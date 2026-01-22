@@ -1,0 +1,96 @@
+---
+const sections = [
+  {
+    title: "Project Management",
+    description:
+      "Images, videos, PDFs and audio files are supported. Create math expressions and diagrams directly from the app. Take photos with the mobile app and save them to a note.",
+    button: "Get Started",
+    overlayClass: "inset-[23.72%_9%_65.56%_11.45%]",
+    overlayOuter:
+      "h-[30px] rotate-[359.675deg] skew-x-[359.888deg] w-[229.001px]",
+    overlayImg: { w: 229, h: 30 },
+    placeholderHeight: "h-[177px]",
+    iconSize: "size-[15px]",
+  },
+  {
+    title: "Work together",
+    description:
+      "With whitepace, share your notes with your colleagues and collaborate on them. You can also publish a note to the internet and share the URL with others. ",
+    button: "Try it now",
+    overlayClass: "inset-[9.35%_6.6%_81.47%_42.36%]",
+    overlayImg: { w: 147, h: 26 },
+    placeholderHeight: "h-[260px]",
+    iconSize: "size-[14px]",
+    iconInset: "inset-[-3.57%]",
+  },
+];
+---
+
+<section
+  class="mx-auto flex max-w-120 flex-col gap-[100px] px-[16px] py-[80px]"
+>
+  {
+    sections.map((section) => (
+      <div class="flex w-full flex-col items-center justify-center gap-[60px]">
+        <div class="flex flex-col items-center gap-[60px]">
+          <div class="relative flex flex-col items-center gap-[24px]">
+            {section.overlayOuter ? (
+              <div
+                class={`absolute flex items-center justify-center ${section.overlayClass}`}
+              >
+                <div class={`flex-none ${section.overlayOuter}`}>
+                  <img
+                    alt=""
+                    class="block size-full max-w-none"
+                    src={`https://placehold.co/${section.overlayImg.w}x${section.overlayImg.h}/c4defd/ffffff?text=+`}
+                  />
+                </div>
+              </div>
+            ) : (
+              <div class={`absolute ${section.overlayClass}`}>
+                <img
+                  alt=""
+                  class="block size-full max-w-none"
+                  src={`https://placehold.co/${section.overlayImg.w}x${section.overlayImg.h}/c4defd/ffffff?text=+`}
+                />
+              </div>
+            )}
+            <p class="text-center text-[36px] font-bold tracking-[-0.02em]">
+              {section.title}
+            </p>
+            <p class="text-center text-[18px] leading-[30px] tracking-[-0.02em]">
+              {section.description}
+            </p>
+          </div>
+          <button class="flex cursor-pointer items-center justify-center gap-[10px] rounded-[8px] bg-[#4f9cf9] px-[40px] py-[20px]">
+            <p class="text-[18px] leading-[30px] tracking-[-0.02em] text-white">
+              {section.button}
+            </p>
+            <div class="flex items-start">
+              {section.iconInset ? (
+                <div class="relative size-[14px]">
+                  <div class={`absolute ${section.iconInset}`}>
+                    <img
+                      alt=""
+                      class="block size-full max-w-none"
+                      src="https://placehold.co/15x15/c4defd/ffffff?text=+"
+                    />
+                  </div>
+                </div>
+              ) : (
+                <div class={section.iconSize}>
+                  <img
+                    alt=""
+                    class="block size-full max-w-none"
+                    src="https://placehold.co/15x15/c4defd/ffffff?text=+"
+                  />
+                </div>
+              )}
+            </div>
+          </button>
+        </div>
+        <div class={`w-full bg-[#c4defd] ${section.placeholderHeight}`} />
+      </div>
+    ))
+  }
+</section>
