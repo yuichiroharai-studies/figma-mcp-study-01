@@ -12,15 +12,15 @@ export default function Customise() {
           <div className="absolute inset-[31.95%_-3.13%_58.28%_48.61%]" data-name="Element" data-node-id="2:2902">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
- <p className="css-4hzbpn font-bold leading-[52px] text-[40px] text-center" data-node-id="2:2931">
+ <p className="font-bold leading-[52px] text-[40px] text-center" data-node-id="2:2931">
             Customise it to your needs
           </p>
- <p className="css-4hzbpn leading-[23px] text-[18px] text-center" data-node-id="2:2932">
+ <p className="leading-[23px] text-[18px] text-center" data-node-id="2:2932">
             Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
           </p>
         </div>
  <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center px-[40px] py-[20px] rounded-[6px]" data-name="Btn-get-started" data-node-id="2:2933">
- <p className="css-ew64yg font-medium leading-[20px] text-[16px] text-white" data-node-id="2:2934">
+ <p className="font-medium leading-[20px] text-[16px] text-white" data-node-id="2:2934">
             Let’s Go
           </p>
  <div className="flex items-start " data-name="Icon" data-node-id="2:2935">

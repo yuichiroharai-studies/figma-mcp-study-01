@@ -9,15 +9,15 @@ export default function Extension() {
           <div className="absolute inset-[26.43%_16.32%_65.55%_20.14%]" data-name="Element" data-node-id="2:2325">
             <img alt="" className="block max-w-none size-full" src={imgElement} />
           </div>
- <p className="css-4hzbpn font-bold text-[36px] text-center text-white tracking-[-0.02em]" data-node-id="2:2354">
+ <p className="font-bold text-[36px] text-center text-white tracking-[-0.02em]" data-node-id="2:2354">
             Use as Extension
           </p>
- <p className="css-4hzbpn leading-[30px] text-[18px] text-center text-white tracking-[-0.02em]" data-node-id="2:2355">
+ <p className="leading-[30px] text-[18px] text-center text-white tracking-[-0.02em]" data-node-id="2:2355">
             Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API.
           </p>
         </div>
  <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center px-[40px] py-[20px] rounded-[8px]" data-name="Btn-get-started" data-node-id="2:2356">
- <p className="css-ew64yg leading-[30px] text-[18px] text-white tracking-[-0.02em]" data-node-id="2:2357">
+ <p className="leading-[30px] text-[18px] text-white tracking-[-0.02em]" data-node-id="2:2357">
             Let’s Go
           </p>
  <div className="flex items-start " data-name="Icon" data-node-id="2:2358">

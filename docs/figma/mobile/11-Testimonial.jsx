@@ -9,7 +9,7 @@ export default function Testimonial() {
       <div className="absolute inset-[19.85%_40.31%_77.25%_11.88%]" data-name="Element" data-node-id="2:2972">
         <img alt="" className="block max-w-none size-full" src={imgElement} />
       </div>
- <p className="css-4hzbpn font-bold leading-[52px] text-[40px] text-center" data-node-id="2:3001">
+ <p className="font-bold leading-[52px] text-[40px] text-center" data-node-id="2:3001">
         What Our Clients Says
       </p>
  <div className="flex items-center justify-center" data-name="Content" data-node-id="2:3002">
@@ -22,7 +22,7 @@ export default function Testimonial() {
                 </div>
               </div>
             </div>
- <p className="css-4hzbpn leading-[20px] text-[16px] tracking-[-0.02em]" data-node-id="2:3010">
+ <p className="leading-[20px] text-[16px] tracking-[-0.02em]" data-node-id="2:3010">
               Taskkey is designed as a collaboration tool for businesses that is a full project management solution.
             </p>
           </div>
@@ -31,10 +31,10 @@ export default function Testimonial() {
               <img alt="" className="block max-w-none size-full" height="65" src={imgAvater} width="65" />
             </div>
  <div className="flex flex-col gap-[15px] items-start text-[18px] tracking-[-0.02em] w-full" data-name="Name" data-node-id="2:3013">
- <p className="css-4hzbpn font-bold w-full" data-node-id="2:3014">
+ <p className="font-bold w-full" data-node-id="2:3014">
                 Oberon Shaw, MCH
               </p>
- <p className="css-4hzbpn leading-[30px] w-full" data-node-id="2:3015">
+ <p className="leading-[30px] w-full" data-node-id="2:3015">
                 Head of Talent Acquisition, North America
               </p>
             </div>

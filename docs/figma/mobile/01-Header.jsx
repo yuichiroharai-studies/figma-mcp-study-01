@@ -9,7 +9,7 @@ export default function Header() {
  <div className="col-1 h-[21px] ml-0 mt-[2px] row-1 w-[26px]" data-name="Vector" data-node-id="13:13">
             <img alt="" className="block max-w-none size-full" src={imgVector} />
           </div>
- <p className="col-1 css-ew64yg font-bold leading-[normal] ml-[32.99px] mt-0 row-1 text-[19.644px] text-white" data-node-id="2:2878">
+ <p className="col-1 font-bold leading-[normal] ml-[32.99px] mt-0 row-1 text-[19.644px] text-white" data-node-id="2:2878">
             whitepace
           </p>
         </div>

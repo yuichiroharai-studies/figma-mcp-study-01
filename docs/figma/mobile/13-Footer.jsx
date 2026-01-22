@@ -18,69 +18,69 @@ export default function Footer() {
                   <img alt="" className="block max-w-none size-full" src={imgGroup} />
                 </div>
               </div>
- <p className="col-1 css-ew64yg font-bold ml-[47px] mt-0 row-1 text-[28px] text-white" data-node-id="2:2111">
+ <p className="col-1 font-bold ml-[47px] mt-0 row-1 text-[28px] text-white" data-node-id="2:2111">
                 whitepace
               </p>
             </div>
  <div className="text-[#f7f7ee] text-[18px] text-center tracking-[-0.02em]" data-node-id="2:2112">
-              <p className="css-4hzbpn mb-0">
+              <p className="mb-0">
                 <span className="leading-[30px]">whitepace</span>
                 <span className="leading-[30px]">{` was created for the new ways we live and work. `}</span>
               </p>
-              <p className="css-4hzbpn leading-[30px]">We make beautyfully designed around the world</p>
+              <p className="leading-[30px]">We make beautyfully designed around the world</p>
             </div>
           </div>
  <div className="flex flex-col gap-[15px] items-center justify-center text-[18px] text-center tracking-[-0.02em]" data-name="Info" data-node-id="2:2113">
- <p className="css-ew64yg font-bold text-white" data-node-id="2:2114">
+ <p className="font-bold text-white" data-node-id="2:2114">
               Product
             </p>
- <p className="css-ew64yg leading-[30px] text-[#ffe492]" data-node-id="2:2115">
+ <p className="leading-[30px] text-[#ffe492]" data-node-id="2:2115">
               Overview
             </p>
- <p className="css-ew64yg leading-[30px] text-white" data-node-id="2:2116">
+ <p className="leading-[30px] text-white" data-node-id="2:2116">
               Pricing
             </p>
- <p className="css-4hzbpn leading-[30px] text-white w-[177px]" data-node-id="2:2117">
+ <p className="leading-[30px] text-white w-[177px]" data-node-id="2:2117">
               Customer stories
             </p>
           </div>
  <div className="flex flex-col gap-[16px] items-center justify-center text-[18px] text-center text-white tracking-[-0.02em]" data-name="Info" data-node-id="2:2118">
- <p className="css-ew64yg font-bold " data-node-id="2:2119">
+ <p className="font-bold " data-node-id="2:2119">
               Resources
             </p>
- <p className="css-ew64yg leading-[30px] " data-node-id="2:2120">
+ <p className="leading-[30px] " data-node-id="2:2120">
               Blog
             </p>
- <p className="css-ew64yg leading-[30px] " data-node-id="2:2121">{`Guides & tutorials`}</p>
- <p className="css-4hzbpn leading-[30px] w-[130px]" data-node-id="2:2122">
+ <p className="leading-[30px] " data-node-id="2:2121">{`Guides & tutorials`}</p>
+ <p className="leading-[30px] w-[130px]" data-node-id="2:2122">
               Help center
             </p>
           </div>
  <div className="flex flex-col gap-[16px] items-center justify-center text-[18px] text-center text-white tracking-[-0.02em]" data-name="Info" data-node-id="2:2123">
- <p className="css-ew64yg font-bold " data-node-id="2:2124">
+ <p className="font-bold " data-node-id="2:2124">
               Company
             </p>
- <p className="css-ew64yg leading-[30px] " data-node-id="2:2125">
+ <p className="leading-[30px] " data-node-id="2:2125">
               About us
             </p>
- <p className="css-ew64yg leading-[30px] " data-node-id="2:2126">{`Careers `}</p>
- <p className="css-4hzbpn leading-[30px] w-[99px]" data-node-id="2:2127">
+ <p className="leading-[30px] " data-node-id="2:2126">{`Careers `}</p>
+ <p className="leading-[30px] w-[99px]" data-node-id="2:2127">
               Media kit
             </p>
           </div>
  <div className="flex flex-col gap-[23px] items-center justify-center w-[201px]" data-name="Try-btn" data-node-id="2:2128">
- <p className="css-ew64yg font-bold leading-[36px] text-[28px] text-center text-white tracking-[-0.02em]" data-node-id="2:2129">
+ <p className="font-bold leading-[36px] text-[28px] text-center text-white tracking-[-0.02em]" data-node-id="2:2129">
               Try It Today
             </p>
  <div className="leading-[30px] text-[18px] text-center text-white tracking-[-0.02em]" data-node-id="2:2130">
-              <p className="css-4hzbpn mb-0">{`Get started for free. `}</p>
-              <p className="css-4hzbpn">Add your whole team as your needs grow.</p>
+              <p className="mb-0">{`Get started for free. `}</p>
+              <p>Add your whole team as your needs grow.</p>
             </div>
  <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center px-[40px] py-[20px] rounded-[8px]" data-name="Btn-try" data-node-id="2:2131">
- <p className="css-ew64yg leading-[30px] text-[18px] text-white tracking-[-0.02em]" data-node-id="2:2132">
+ <p className="leading-[30px] text-[18px] text-white tracking-[-0.02em]" data-node-id="2:2132">
                 Start today
               </p>
- <div className="flex items-start " data-name="Icon" data-node-id="2:2133">
+ <div className="flex items-start" data-name="Icon" data-node-id="2:2133">
                 <div className="relative size-[14px]" data-node-id="2:2134">
                   <div className="absolute inset-[-3.57%]">
                     <img alt="" className="block max-w-none size-full" src={imgGroup214} />
@@ -100,21 +100,21 @@ export default function Footer() {
                   </div>
                 </div>
               </div>
- <p className="css-ew64yg leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2144">
+ <p className="leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2144">
                 English
               </p>
  <div className="h-[15px] w-[21px]" data-name="Arrow" data-node-id="2:2145">
                 <img alt="" className="block max-w-none size-full" src={imgArrow} />
               </div>
             </div>
- <p className="css-ew64yg leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2147">{`Terms & privacy`}</p>
- <p className="css-ew64yg leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2148">
+ <p className="leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2147">{`Terms & privacy`}</p>
+ <p className="leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2148">
               Security
             </p>
- <p className="css-ew64yg leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2149">
+ <p className="leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2149">
               Status
             </p>
- <p className="css-ew64yg leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2150">
+ <p className="leading-[20px] text-[16px] text-white tracking-[-0.02em]" data-node-id="2:2150">
               ©2021 Whitepace LLC.
             </p>
           </div>

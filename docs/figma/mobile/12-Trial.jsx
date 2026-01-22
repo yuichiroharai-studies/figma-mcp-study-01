@@ -8,16 +8,16 @@ export default function Trial() {
  <div className="bg-[#043873] flex flex-col items-start justify-center pb-[32px] pt-[100px] px-[16px] size-full" data-name="Trial" data-node-id="2:2939">
  <div className="flex flex-col gap-[40px] items-start w-full" data-name="Heading" data-node-id="2:2940">
  <div className="flex flex-col gap-[24px] items-start text-white w-full" data-name="Text-block" data-node-id="2:2941">
- <p className="css-4hzbpn font-bold leading-[52px] text-[40px] w-full" data-node-id="2:2942">
+ <p className="font-bold leading-[52px] text-[40px] w-full" data-node-id="2:2942">
             Try Whitepace today
           </p>
  <div className="leading-[30px] text-[18px] tracking-[-0.02em] w-full" data-node-id="2:2943">
-            <p className="css-4hzbpn mb-0">{`Get started for free. `}</p>
-            <p className="css-4hzbpn">Add your whole team as your needs grow.</p>
+            <p className="mb-0">{`Get started for free. `}</p>
+            <p>Add your whole team as your needs grow.</p>
           </div>
         </div>
  <div className="bg-[#4f9cf9] flex gap-[10px] items-center justify-center px-[40px] py-[20px] rounded-[6px]" data-name="Btn-try" data-node-id="2:2944">
- <p className="css-ew64yg font-medium leading-[20px] text-[16px] text-white" data-node-id="2:2945">
+ <p className="font-medium leading-[20px] text-[16px] text-white" data-node-id="2:2945">
             Try Taskey free
           </p>
  <div className="flex items-start " data-name="Icon" data-node-id="2:2946">
@@ -28,7 +28,7 @@ export default function Trial() {
             </div>
           </div>
         </div>
- <p className="css-4hzbpn leading-[30px] text-[18px] text-white tracking-[-0.02em]" data-node-id="2:2950">
+ <p className="leading-[30px] text-[18px] text-white tracking-[-0.02em]" data-node-id="2:2950">
           On a big team? Contact sales
         </p>
  <div className="flex gap-[40px] items-start " data-name="App-icon" data-node-id="2:2951">
