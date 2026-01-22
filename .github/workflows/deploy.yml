@@ -1,0 +1,46 @@
+name: Deploy Versioned Astro to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Extract Version and Build
+        id: build
+        run: |
+          VERSION=$(npm pkg get version | tr -d '"')
+
+          echo "Building version: $VERSION"
+
+          export ASTRO_SITE="https://${{ github.repository_owner }}.github.io"
+
+          npm run build
+
+          echo "VERSION=$VERSION" >> $GITHUB_OUTPUT
+
+      - name: Deploy to GitHub Pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: ${{ steps.build.outputs.VERSION }}
+          keep_files: true
